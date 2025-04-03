@@ -4,7 +4,7 @@
 </h1>
 
 
-### 🌟 **Sobre mim!
+### 🌟 Sobre mim!
 ## Meu nome é Lucas, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, moro em Curitiba e estou sempre em busca de aprendizado e desenvolvimento na área de tecnologia
 
 
