@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="80">
+  <br>Olá eu sou o Lucas!
+</h1>
 
-<!--
-**LucasMainini/LucasMainini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🌟 **Sobre mim!
+## Meu nome é Lucas, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, moro em Curitiba e estou sempre em busca de aprendizado e desenvolvimento na área de tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 💻 **Tecnologias**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+---
+
+### 🎮 **Fun Facts**
+
+
+---
+
+
