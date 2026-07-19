@@ -5,7 +5,7 @@
 
 
 ### 🌟 Sobre mim!
-## Meu nome é Lucas, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, moro em Curitiba e estou sempre em busca de aprendizado e desenvolvimento na área de tecnologia
+## Meu nome é Lucas, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, moro em Curitiba e estou sempre em busca de aprendizado e desenvolvimento na área de tecnologia
 
 
 
